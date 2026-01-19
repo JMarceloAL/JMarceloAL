@@ -12,6 +12,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JMarceloAL&show_icons=true&theme=cobalt" alt="Joao Marcelo GitHub stats" height="180" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarceloAL&layout=compact&theme=cobalt" alt="Top Langs" height="180" />
 </p>
 
