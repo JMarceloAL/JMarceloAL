@@ -2,7 +2,9 @@
 
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:joaomarcl.251@gmail.com) 
+
+[![Email](https://img.shields.io/badge/Email-joaomarcl.251%40gmail.com-purple?style=flat-square&logo=gmail)](mailto:joaomarcl.251@gmail.com)
+
 
 
 
