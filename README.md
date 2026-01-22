@@ -19,5 +19,5 @@
 
 ### Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,html,css,react,vscode,githu,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,html,css,react,django,vscode,githu,)](https://skillicons.dev)
 
